@@ -19,9 +19,5 @@ server.use(router) //rotas na prota 3000
 
 
 server.listen(8000, () => {
-<<<<<<< HEAD
   console.log("Este trecho está na máquina local http://localhost:8000")
-=======
-  console.log("Este trecho está no Github http://localhost:8000")
->>>>>>> f3eda8b65c9f74b0f3aabf2ac13a106f9bdf29ec
 })
