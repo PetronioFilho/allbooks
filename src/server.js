@@ -19,5 +19,5 @@ server.use(router) //rotas na prota 3000
 
 
 server.listen(8000, () => {
-  console.log("Acesse essa API http://localhost:8000")
+  console.log("Este trecho estava no Github http://localhost:8000")
 })
