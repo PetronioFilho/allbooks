@@ -19,7 +19,11 @@ server.use(router) //rotas na prota 3000
 
 
 server.listen(8000, () => {
+<<<<<<< HEAD
+  console.log("Teste proteção à Branch main http://localhost:8000")
+=======
   console.log("Testando CI no Github http://localhost:8000")
+>>>>>>> main
 })
 
 //Este comentário é apenas para treinar Integração Contínua
