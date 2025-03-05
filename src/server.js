@@ -23,3 +23,5 @@ server.listen(8000, () => {
 })
 
 //Este comentário é apenas para treinar Integração Contínua
+//Este comentário é para o exercício de CI
+//Vamos testar a proteção à branch main
