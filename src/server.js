@@ -21,3 +21,5 @@ server.use(router) //rotas na prota 3000
 server.listen(8000, () => {
   console.log("Testando CI no Github http://localhost:8000")
 })
+
+//Este comentário é apenas para treinar Integração Contínua
