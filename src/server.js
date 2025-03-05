@@ -19,5 +19,5 @@ server.use(router) //rotas na prota 3000
 
 
 server.listen(8000, () => {
-  console.log("Issue Altera texto http://localhost:8000")
+  console.log("Testando CI no Github http://localhost:8000")
 })
